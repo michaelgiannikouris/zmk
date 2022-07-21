@@ -1,0 +1,5 @@
+# Copyright (c) 2020 Ryan Cross
+# SPDX-License-Identifier: MIT
+
+config SHIELD_DMM56
+	def_bool $(shields_list_contains,dmm56)

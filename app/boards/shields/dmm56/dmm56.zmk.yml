@@ -1,0 +1,8 @@
+file_format: "1"
+id: dmm56
+name: DMM56
+type: shield
+url: https://github.com/josefadamcik/SofleKeyboard
+requires: [seeed_xiao]
+features:
+  - keys
